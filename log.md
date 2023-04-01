@@ -11,7 +11,7 @@ richmanbtcさんの本を通読しローカルでサンプルを動かす。
 kaggle Contributorになる。  
 「kaggleで勝つデータ分析の技術」を通読  
 「kaggleチュートリアル」を通読  
-・AI関係  
+・機械学習・AI関係  
 JDLA　G検定合格  
 ラビットチャレンジ修了（E資格はまだ）  
 
